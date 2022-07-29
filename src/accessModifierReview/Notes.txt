@@ -1,0 +1,7 @@
+Access Modofiers:
+
+    public : lets you reach from everywhere
+    protected : can be reach from everywhere if there is inheritance
+    default : you need to be in the same package to reach methods
+    private : just from the class itself
+
